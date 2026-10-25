@@ -1,0 +1,9 @@
+{
+  "block.orbital2.blueprint": "Blueprint",
+  "block.orbital2.blueprint_fish": "Stab Shot Blueprint",
+  "block.orbital2.blueprint_c": "Purpleprint",
+  "block.orbital2.blueprint_c_fish": "Nuke Shot Purpleprint",
+  "item.orbital2.nuke": "Nuke Shot",
+  "item.orbital2.stab": "Stab Shot",
+  "creativemodtab.mod.orbital2_items": "Wembus Orbital Strike Cannons"
+}

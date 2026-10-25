@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "orbital2:item/stab"
+    },
+    "on_true": {
+      "type": "minecraft:model",
+      "model": "orbital2:item/stab_cast"
+    },
+    "property": "minecraft:fishing_rod/cast"
+  }
+}

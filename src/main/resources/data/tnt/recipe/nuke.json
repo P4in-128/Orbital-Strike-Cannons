@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ttt",
+    "tft",
+    "ttt"
+  ],
+  "key": {
+    "t": [
+      "tnt"
+    ],
+    "f": [
+      "minecraft:fishing_rod"
+    ]
+  },
+  "result": "orbital2:nuke"
+}
